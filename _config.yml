@@ -22,7 +22,7 @@ avatar_image: /img/IP.png
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/ipetridis/" # Add your linkedln handle
+linkedin: "https://www.linkedin.com/in/ipetridis/" # Add your linkedln handle
 github: "https://github.com/ispetridis"  # Add your github handle
 
 paginate: 6
