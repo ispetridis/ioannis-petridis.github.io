@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Ioannis Petridis
-description: "Hi I'm Ioannis, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. I seek to apply lean Data Science and Machine Learning solutions to solve business problems and deliver impactful and innovative products within an engaging and challenging environment. I am self-directed, curious and dedicated to improve and grow both in a team and individually."
+description: "Hi I'm Ioannis, and I'm a Data Scientist. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. I seek to apply lean Data Science and Machine Learning solutions to solve business problems and deliver impactful and innovative products within an engaging and challenging environment. I am self-directed, curious and dedicated to improve and grow both in a team and individually."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
