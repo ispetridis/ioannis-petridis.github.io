@@ -1,11 +1,10 @@
 # Remote theme directory
-#remote_theme: analytics-link/analytics-link.github.io
-theme: jekyll-theme-cayman
+remote_theme: analytics-link/analytics-link.github.io
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 #-------------------------------
 # General Site Settings
@@ -53,6 +52,7 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+theme: jekyll-theme-cayman
 
 
 
