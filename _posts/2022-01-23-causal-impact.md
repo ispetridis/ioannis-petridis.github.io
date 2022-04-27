@@ -106,7 +106,7 @@ It must not be affected by the event that we’re measuring, but it must be pred
 
 So, in the case of randomised experiment, we could use the control group as our additional set of data.
 
-In the case where we don't have a control group, we need to find other sets of data that meet the aforementoined rules. These must not be affected by the event, but they should have some relationship or correlation with the time-series data we’re measuring.  If we were measuring stock prices, perhaps we could use other stocks that are in a similar industry to us.  If we were measuring the sales of a certain section of the grocery store, say health and beauty products, perhaps our second time-series could be the sales of another non-food category in the store.
+In the case where we don't have a control group, we need to find other sets of data that meet the aforementioned rules. These must not be affected by the event, but they should have some relationship or correlation with the time-series data we’re measuring.  If we were measuring stock prices, perhaps we could use other stocks that are in a similar industry to us.  If we were measuring the sales of a certain section of the grocery store, say health and beauty products, perhaps our second time-series could be the sales of another non-food category in the store.
 
 Either way, this additional data provides the algorithm insights into the trends of the data over time.
 
